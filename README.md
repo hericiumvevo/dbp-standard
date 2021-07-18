@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/github/issues/jaasio/jas-compliant?style=flat&color=a900ff />
 <a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </p></a>
 
-<p align="center"> Jaś complient is a new standard that proves the tool is simple and powerful enough for Jasio/p>
+<p align="center"> Jaś complient is a new standard that proves the tool is simple and powerful enough for Jasio</p>
 
 ## List of software.
- - 
+ - ame
